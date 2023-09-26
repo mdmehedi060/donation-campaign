@@ -37,7 +37,7 @@ const [isShow,setIsShow]= useState(false)
               All button delate
             </button>
           )}
-          <div className="grid grid-cols-2 gap-5">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
             {
                 isShow ? donations.map((donate) => (
                     <Donationcard key={donate.id} donate={donate}></Donationcard>
