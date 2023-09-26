@@ -41,7 +41,7 @@ const [isShow,setIsShow]= useState(false)
             {
                 isShow ? donations.map((donate) => (
                     <Donationcard key={donate.id} donate={donate}></Donationcard>
-                  )) : donations.slice(0, 2).map((donate) => (
+                  )) : donations.slice(0, 4).map((donate) => (
                     <Donationcard key={donate.id} donate={donate}></Donationcard>
                   ))
             }
