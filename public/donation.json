@@ -1,0 +1,136 @@
+[
+    {
+        "id": "1",
+      "Picture": "https://i.ibb.co/q5C6JKB/Health-1.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Category_bg": "#33FF33",
+      "Card_bg": "#FFCCCC",
+      "Text_button_bg": "#FF6666",
+      "Description": "This is a description for Health",
+      "Price": "$19.99"
+    },
+    {
+        "id": "2",
+      "Picture": "https://i.ibb.co/KymXxr6/Eduction-2.png",
+      "Title": "Good education",
+      "Category": "Education",
+      "Category_bg": "#3366FF",
+      "Card_bg": "#FFDDDD",
+      "Text_button_bg": "#FF8888",
+      "Description": "This is a description for education.",
+      "Price": "$29.99"
+    },
+    {
+        "id": "3",
+      "Picture": "https://i.ibb.co/xXTrp0X/Clothing-3.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "Category_bg": "#FF3366",
+      "Card_bg": "#CCFFCC",
+      "Text_button_bg": "#66FF66",
+      "Description": "This is a description for Product 3.",
+      "Price": "$39.99"
+    },
+    {
+        "id": "4",
+      "Picture": "https://i.ibb.co/N7JHNRk/Food-4.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Category_bg": "#FF9933",
+      "Card_bg": "#FFFFCC",
+      "Text_button_bg": "#FFFF66",
+      "Description": "This is a description for Product 4.",
+      "Price": "$49.99"
+    },
+    {
+        "id": "5",
+        "Picture": "https://i.ibb.co/N7JHNRk/Food-4.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#FF9933",
+        "Card_bg": "#FFFFCC",
+        "Text_button_bg": "#FFFF66",
+        "Description": "This is a description for Product 4.",
+        "Price": "$49.99"
+    },
+    {
+     
+        "id": "6",
+      "Picture": "https://i.ibb.co/xXTrp0X/Clothing-3.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "Category_bg": "#FF3366",
+      "Card_bg": "#CCFFCC",
+      "Text_button_bg": "#66FF66",
+      "Description": "This is a description for Product 3.",
+      "Price": "$39.99"
+    },
+    {
+        "id": "7",
+        "Picture": "https://i.ibb.co/KymXxr6/Eduction-2.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#3366FF",
+        "Card_bg": "#FFDDDD",
+        "Text_button_bg": "#FF8888",
+        "Description": "This is a description for Product 2.",
+        "Price": "$29.99"
+    },
+    {
+        "id": "8",
+        "Picture": "https://i.ibb.co/q5C6JKB/Health-1.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#33FF33",
+        "Card_bg": "#FFCCCC",
+        "Text_button_bg": "#FF6666",
+        "Description": "This is a description for Product 1.",
+        "Price": "$19.99"
+    },
+    {
+        "id": "9",
+        "Picture": "https://i.ibb.co/q5C6JKB/Health-1.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#33FF33",
+        "Card_bg": "#FFCCCC",
+        "Text_button_bg": "#FF6666",
+        "Description": "This is a description for Product 1.",
+        "Price": "$19.99"
+    },
+    {
+        "id": "10",
+        "Picture": "https://i.ibb.co/KymXxr6/Eduction-2.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#3366FF",
+        "Card_bg": "#FFDDDD",
+        "Text_button_bg": "#FF8888",
+        "Description": "This is a description for Product 2.",
+        "Price": "$29.99"
+    },
+    {
+        "id": "11",
+        "Picture": "https://i.ibb.co/xXTrp0X/Clothing-3.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#FF3366",
+        "Card_bg": "#CCFFCC",
+        "Text_button_bg": "#66FF66",
+        "Description": "This is a description for Product 3.",
+        "Price": "$39.99"
+    },
+    {
+        "id": "12",
+        "Picture": "https://i.ibb.co/KymXxr6/Eduction-2.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#3366FF",
+        "Card_bg": "#FFDDDD",
+        "Text_button_bg": "#FF8888",
+        "Description": "This is a description for Product 2.",
+        "Price": "$29.99"
+    }
+  ]
+  
