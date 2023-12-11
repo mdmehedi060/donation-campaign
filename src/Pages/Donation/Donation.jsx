@@ -47,7 +47,7 @@ const [isShow,setIsShow]= useState(false)
             }
           </div>
          {
-            donations.length > 2 &&  <button onClick={()=> setIsShow(!isShow)}
+            donations.length > 4 &&  <button onClick={()=> setIsShow(!isShow)}
             className="px-5 mt-5 bg-green-200 block mx-auto mb-5">
              See More
            </button>

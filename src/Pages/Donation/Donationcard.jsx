@@ -27,7 +27,7 @@ const Donationcard = ({donate}) => {
       <button 
         className="flex bg-[#FF444A] select-none items-center gap-2 rounded-lg py-3 
         px-6 text-center align-middle font-sans text-xs font-bold uppercase text-pink-500 
-        transition-all text-white hover:bg-pink-500/10 active:bg-pink-500/30
+        transition-all  hover:bg-pink-500/10 active:bg-pink-500/30
          disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
         type="button"
       >

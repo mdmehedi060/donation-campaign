@@ -39,7 +39,8 @@ else{
 
     return (
         <div>
-        <div style={{background: card_bg}} className="relative rounded-md  w-[600px] h-96 flex-col shadow-md ">
+        <div style={{background: card_bg}} className="relative rounded-md 
+         w-[600px] h-96 flex-col shadow-md ">
 
   <div className=" ">
     <img className='w-full rounded-none h-[30vh]'
